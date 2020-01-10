@@ -1,0 +1,19 @@
+**/target
+**/classes
+**/out
+**/logs
+**/pids
+**/dumps
+**.log
+########## Project Files ##########
+**default-folders.properties
+########## InteliJ IDEA ##########
+*.iml
+.idea
+########## Eclipse IDEA ##########
+.settings
+.classpath
+.project
+.metadata
+########## MAC OS ##########
+**.DS_Store
