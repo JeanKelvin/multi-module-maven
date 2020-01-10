@@ -15,7 +15,6 @@
     </modules>
 
     <properties>
-        <maven.version>3.3.9</maven.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <jdk.version>11</jdk.version>
